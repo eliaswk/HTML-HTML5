@@ -31,18 +31,21 @@
 
 [Listas](https://www.w3schools.com/html/html_lists.asp)
 
-```
+
 > Ordenadas
 
+```
 <ol>
     <li>Inicio</li>
     <li>Sobre</li>
     <li>Portifolio</li>
     <li>Contato</li>
 </ol>
+```
 
 > Não Ordenada
 
+```
 <ul>
     <li>Inicio</li>
     <li>Sobre</li>
