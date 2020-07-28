@@ -54,3 +54,16 @@
 </ul>
 
 ```
+
+<!-- Blockquote -->
+> Negrito e italico
+
+```
+
+<b> Negrito antigo </b>
+<i> Italico antigo </i>
+
+<strong>Negrito novo</strong>
+<em>Italico novo </em>
+
+```
