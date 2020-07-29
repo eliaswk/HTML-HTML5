@@ -67,3 +67,25 @@
 <em>Italico novo </em>
 
 ```
+
+<!-- Blockquote -->
+> Formularios
+```
+
+<form method="GET">
+    <input type="text" name="firtname">
+    <input type="text" name="lastname">
+    <input type="email" name="email" required>
+    <input type="submit" value="Register">
+    <input type="reset" value="Reset">
+
+    Female.: <input type="radio" name="gender" value="female"><br>
+        Male.: <input type="radio" name="gender" value="male"><br>
+
+        <select>
+            <option value="Audi">Audi</option>
+            <option value="Fiat">Fiat</option>
+        </select>
+</form>
+
+```
